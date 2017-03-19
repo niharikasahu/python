@@ -1,0 +1,5 @@
+A = (input())
+B = A.split(",")
+C = tuple(B)
+print (B)
+print (C)
