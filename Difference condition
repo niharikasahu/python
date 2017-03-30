@@ -1,0 +1,7 @@
+number = int(input())
+if number > 17:
+    sub = number -17
+    sub = 2 * sub
+else:
+    sub = 17 - number
+print (sub) 
