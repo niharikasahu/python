@@ -1,0 +1,6 @@
+l = str(input())
+
+if l[0] == "I" or "i" and l[1]=="s":
+    print (l)
+else:
+    print( "Is" + l)
